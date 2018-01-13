@@ -1,0 +1,6 @@
+keras-examples/
+.idea/
+.DS_Store
+*.pyc
+*.log
+logs/
